@@ -1,17 +1,17 @@
-Vaporized by the Alpha Warhead.
-Shattered legs and feet suggest fatal trauma caused by a fall.
-Signs of severe trauma to both femur bones suggests death by circulatory shock.
-Decayed in the Pocket Dimension.
-It's a remnant of SCP-106.
-Severe electrical burns.
-Fatal blunt trauma; the body is badly mutilated and pulped.
-[ammotype] bullet wounds.
-Cervical fracture at the base of the skull.
-Massive amounts of tissue decay are present on the body.
-Sudden cessation of life signs. No clear trauma.
-Unknown cause of death.
-It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
-Massive lacerations and excessive blood loss.
-Large, deep bite marks around the cranium are observed.
-Melted by a highly corrosive substance.
-Shrapnel and third-degree burns caused by an explosion.
+Wedi'i anweddu gan y Pen Blaen Alffa.
+coesau a thraed chwalu awgrymu trawma angheuol a achosir gan ostyngiad.
+Arwyddion o drawma difrifol i'r ddau esgyrn ffemwr yn awgrymu marwolaeth trwy sioc cylchrediad y gwaed.
+Wedi pydru yn y Dimensiwn Poced.
+Mae'n weddill o SCP-106.
+Llosgiadau trydanol difrifol.
+Trawma swrth angheuol; mae'r corff wedi'i lurgunio'n wael a'i guro.
+[ammotype] clwyfau bwled.
+Toriad ceg y groth ar waelod y benglog.
+Symiau enfawr o bydredd meinwe yn bresennol ar y corff.
+Rhoi'r gorau i arwyddion bywyd yn sydyn. Dim trawma clir.
+Achos marwolaeth anhysbys.
+Mae'n gorff <b>[user]</b> - mae nhw'n [class]!\n\nAchos marwolaeth: [cause]
+Briwiau enfawr a cholli gwaed yn ormodol.
+Gwelir marciau brathiad mawr, dwfn o amgylch y craniwm.
+Wedi'i doddi gan sylwedd cyrydol iawn.
+Llosgiadau Shrapnel a thrydydd gradd a achosir gan ffrwydrad.
