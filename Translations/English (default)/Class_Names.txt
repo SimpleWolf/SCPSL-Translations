@@ -1,18 +1,18 @@
 SCP-173
-Class-D Personnel
-Spectator
+Personél Dosbarth-D
+Gwyliwr
 SCP-106
-Nine-Tailed Fox Scientist
+Llwynog Naw-Cynffon Gwyddonydd
 SCP-049
-Scientist
+Gwyddonydd
 SCP-079
-Chaos Insurgency
+Gwrthryfel Anhrefn
 SCP-096
 SCP-049-2
-Nine-Tailed Fox Lieutenant
-Nine-Tailed Fox Commander
-Nine-Tailed Fox Cadet
-TUTORIAL
-Facility Guard
+Llwynog Naw-Cynffon Lieutenant
+Llwynog Naw-Cynffon Commander
+Llwynog Naw-Cynffon Cadet
+TIWTORIAL
+Gard Gyfleuster
 SCP-939-53
 SCP-939-89
